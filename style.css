@@ -1,0 +1,14 @@
+.outerContainer {
+  height: 100vh;
+  width: 100%;
+  background-color: lavender;
+  position: relative;
+}
+.innerContainer {
+ height: 50%;
+ width: 50%;
+ background-color: #be78ed;
+ position: absolute;
+ top: 25%;
+ left: 25%;
+}
